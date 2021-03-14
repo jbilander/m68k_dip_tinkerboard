@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NB3N502
+D 3.3V / 5.0V 14 MHz to 190 MHz PLLClock Multiplier, SOIC-8
+K oscillator clock multiplier PLL
+F https://www.onsemi.com/pub/Collateral/NB3N502-D.PDF
+$ENDCMP
+#
+#End Doc Library
